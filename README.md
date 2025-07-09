@@ -3,7 +3,7 @@
 A web-based application to monitor and analyze cybersecurity threats in real-time.  
 This dashboard provides visualization of threat data, supports threat searches with filters, and leverages an AI model to predict the category of new threats.  
 
-![Threat Intelligence Dashboard Banner](9ced8d00-8e7b-45e8-9f20-2a548b139884.png)
+![Threat Intelligence Dashboard Banner](./images/dashboard-overview.png)
 
 ---
 
@@ -33,20 +33,19 @@ This dashboard provides visualization of threat data, supports threat searches w
 ## 📸 Screenshots
 
 ### 📊 Dashboard Overview
-![Dashboard Overview](9ced8d00-8e7b-45e8-9f20-2a548b139884.png)
+![Dashboard Overview](./images/dashboard-overview.png)
 
 ### 🔎 Threat Search
-![Threat Search](6d78c57f-a6e6-4fd2-83ee-fa84b1cd69bb.png)
+![Threat Search](./images/threat-search.png)
 
 ### 🧠 Threat Analysis
-![Threat Analysis](6ab647c7-b6fa-4ea8-902a-9c90bcd12d99.png)
+![Threat Analysis](./images/threat-analysis.png)
 
 ---
 
 ## 📂 Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/shakthi373/threat-intel-dashboard.git
-   cd threat-intel-dashboard
+### Clone the repository
+```bash
+git clone https://github.com/shakthi373/threat-intel-dashboard.git
+cd threat-intel-dashboard
