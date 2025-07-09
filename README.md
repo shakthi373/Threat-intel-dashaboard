@@ -55,9 +55,9 @@ This dashboard allows the Threat Analysis Team to:
 
 | Layer          | Technology              | Justification                                                 |
 |----------------|--------------------------|----------------------------------------------------------------|
-| **Backend**    | Python (Flask)           | Lightweight REST API, quick ML integration via scikit-learn   |
+| **Backend**    | Python (Fast API)           | Lightweight REST API, quick ML integration via scikit-learn   |
 | **Frontend**   | React.js (Vite)          | Modern SPA framework, fast rendering, responsive UI           |
-| **Database**   | SQLite (Dev) / PostgreSQL (Prod) | Simple setup for dev, scalable with Postgres in production|
+| **Database**   | SQLite                  | Simple setup for dev, scalable with Postgres in production|
 | **ML Model**   | scikit-learn + TF-IDF    | Robust NLP pipeline, quick training, easy to deploy           |
 | **Visuals**    | Chart.js + Bootstrap 5   | Interactive charts, clean responsive UI                       |
 | **Container**  | Docker + Docker Compose  | Simplifies deployment and environment parity                  |
