@@ -3,7 +3,7 @@
 A web-based application to monitor and analyze cybersecurity threats in real-time.  
 This dashboard provides visualization of threat data, supports threat searches with filters, and leverages an AI model to predict the category of new threats.  
 
-![Threat Intelligence Dashboard Banner](./images/dashboard-overview.png)
+![Threat Intelligence Dashboard Banner](./images/Dashboard-Banner.png)
 
 ---
 
@@ -33,13 +33,13 @@ This dashboard provides visualization of threat data, supports threat searches w
 ## 📸 Screenshots
 
 ### 📊 Dashboard Overview
-![Dashboard Overview](./images/dashboard-overview.png)
+![Dashboard Overview](./images/Dashboard-overview.png)
 
 ### 🔎 Threat Search
-![Threat Search](./images/threat-search.png)
+![Threat Search](./images/Search.png)
 
 ### 🧠 Threat Analysis
-![Threat Analysis](./images/threat-analysis.png)
+![Threat Analysis](./images/Analyze.png)
 
 ---
 
