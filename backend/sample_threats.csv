@@ -1,0 +1,62 @@
+Cleaned Threat Description,Threat Category
+Malicious trojan detected in user downloads folder,Malware
+Phishing emails targeting employees to harvest credentials,Phishing
+Ransomware encrypting files and demanding Bitcoin payment,Ransomware
+DDoS attack floods network causing service outage,DDoS
+Spyware software stealing browser history and passwords,Spyware
+Worm propagating through USB devices infecting multiple systems,Malware
+Credential harvesting phishing link sent via SMS,Phishing
+Healthcare systems targeted with ransomware attack,Ransomware
+Botnet-driven DDoS attack on gaming servers,DDoS
+Keylogger spyware installed through free PDF reader installer,Spyware
+Cleaned Threat Description,Threat Category
+Malicious trojan embedded in pirated Windows activator,Malware
+Worm exploiting EternalBlue vulnerability spreading across networks,Malware
+Adware bundled with freeware applications causing popup ads,Malware
+Trojan horse stealing saved browser passwords,Malware
+Malware infection through USB autorun feature,Malware
+Fake antivirus installing malware in system directories,Malware
+Drive-by download infects browser with spyware,Malware
+Rootkit hiding malicious processes in kernel mode,Malware
+Malicious browser extension stealing cookies,Malware
+Virus attaching itself to executable files,Malware
+Phishing email imitating Office 365 password reset,Phishing
+Phishing SMS warns of bank account suspension,Phishing
+Spear-phishing targeting company CFOs for wire fraud,Phishing
+Phishing site imitating PayPal login page,Phishing
+Phishing emails spoofing Amazon delivery notifications,Phishing
+Phishing links embedded in LinkedIn messages,Phishing
+QR code phishing deployed on printed flyers,Phishing
+Phishing attacks using compromised company email accounts,Phishing
+Phishing campaign mimicking government tax refund portals,Phishing
+Phishing messages sent via fake WhatsApp group invites,Phishing
+Ransomware encrypts backup drives, halting hospital operations
+Fake Flash Player update installs ransomware,Ransomware
+Ransomware embedded in Word macro sent via email,Ransomware
+Ransomware attack hits transportation company causing delivery delays,Ransomware
+Zero-day exploit leads to ransomware spread across endpoints,Ransomware
+Ransomware attack locks out enterprise backup servers,Ransomware
+Healthcare systems targeted with ransomware demanding Monero payment,Ransomware
+Ransomware crippling city council services for days,Ransomware
+Ransomware attack shutting down manufacturing assembly lines,Ransomware
+Ransomware hitting financial institutions with double extortion tactics,Ransomware
+DDoS attack on e-commerce site during Black Friday sale,DDoS
+Botnet-powered DDoS cripples popular gaming platform,DDoS
+DDoS amplification attack using unsecured NTP servers,DDoS
+DNS-based DDoS attack affecting news websites,DDoS
+Massive DDoS floods API gateways of fintech apps,DDoS
+IoT botnet launches DDoS attack on CDN provider,DDoS
+Application-layer DDoS overwhelms login pages with fake requests,DDoS
+DDoS attack disables online voting system during elections,DDoS
+Layer 7 DDoS targets REST APIs of banking systems,DDoS
+DDoS traffic saturates bandwidth of small business routers,DDoS
+Spyware app disguised as battery saver collecting call logs,Spyware
+Spyware harvesting clipboard data during cryptocurrency transactions,Spyware
+Spyware installed via browser toolbar stealing bookmarks,Spyware
+Keylogger spyware records keystrokes in online banking sessions,Spyware
+Spyware silently tracking GPS location of mobile devices,Spyware
+Spyware scraping contact lists from compromised email accounts,Spyware
+Commercial spyware used to monitor employees' instant messages,Spyware
+Spyware hidden in free VPN app exporting browsing history,Spyware
+Spyware capturing screenshots of sensitive documents,Spyware
+Spyware monitoring social media activity for targeted ads,Spyware

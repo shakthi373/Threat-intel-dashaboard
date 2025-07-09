@@ -1,0 +1,36 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f8f9fa;
+}
+
+.navbar {
+  background-color: #2d6964;
+}
+
+.navbar-brand {
+  color: #ff7e5f !important;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+.btn-custom {
+  border-color: #ff7e5f;
+  color: #ff7e5f;
+  background-color: transparent;
+  font-weight: bold;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.btn-custom:hover {
+  background-color: #ff7e5f;
+  color: white;
+}
+.clickable-row {
+  transition: background-color 0.2s ease, box-shadow 0.2s ease;
+  cursor: pointer;
+}
+
+.clickable-row:hover {
+  background-color: #f8f9fa; /* light gray */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
